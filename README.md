@@ -1,2 +1,4 @@
 # hackerrank
-hankerrank solutions in python
+all hankerrank solutions in python
+
+1. 	**Python - 115/115 challenges solved**
